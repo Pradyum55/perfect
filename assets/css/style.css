@@ -188,7 +188,7 @@ transition: all 0.35s ease 0s;
     height: 6px;
     position: absolute;
     right: 0;
-    width: 50%;
+    width: 100%;
     z-index: 999;
 }
 #about p {
