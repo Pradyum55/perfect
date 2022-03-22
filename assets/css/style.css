@@ -2,7 +2,6 @@
 	Be by TEMPLATE STOCK
 	templatestock.co @templatestock
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-
 */
 html,
 body {
@@ -176,7 +175,7 @@ transition: all 0.35s ease 0s;
     background: #000 none repeat scroll 0 0;
     bottom: 9px;
     content: "";
-    height: 6px;
+    height: 2px;
     position: absolute;
     width: 100%;
 	left:0;
@@ -185,10 +184,10 @@ transition: all 0.35s ease 0s;
     background: #ffa100 none repeat scroll 0 0;
     bottom: 9px;
     content: "";
-    height: 6px;
+    height: 2px;
     position: absolute;
     right: 0;
-    width: 100%;
+    width: 50%;
     z-index: 999;
 }
 #about p {
@@ -1340,7 +1339,3 @@ width:100%;
 }
 
 }
-
-
-
-
